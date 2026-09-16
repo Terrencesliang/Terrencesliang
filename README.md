@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:001a0f,75:003d24,100:00ff9c&height=220&section=header&text=ZXLIANGM&fontSize=68&fontColor=00ff9c&animation=twinkling&fontAlignY=38&desc=AI%20ENGINEER%20%C2%B7%20KNOWLEDGE%20SYSTEMS%20BUILDER&descAlignY=60&descSize=16&descColor=b8ffd4" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:001a0f,75:003d24,100:00ff9c&height=220&section=header&text=DeriaL&fontSize=68&fontColor=00ff9c&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%2F%20Founder&descAlignY=60&descSize=16&descColor=b8ffd4" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=700&color=00FF9C&center=true&vCenter=true&width=720&height=45&lines=%3E+building_intelligent_systems...;%3E+engineering_knowledge_infrastructure...;%3E+RAG+%2F%2F+AGENTS+%2F%2F+LLMs;%3E+turning_data_into_intelligence..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=700&color=00FF9C&center=true&vCenter=true&width=720&height=45&lines=%3E+building_AI-native_products...;%3E+engineering_intelligent_systems...;%3E+RAG+%2F%2F+AGENTS+%2F%2F+LLMs;%3E+founder_mode._ship_and_iterate..." />
 
 <br><br>
 
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-### `I BUILD AI SYSTEMS THAT TURN DATA INTO INTELLIGENCE.`
+### `DeriaL — AI Engineer / Founder`
 
 `AI` · `RAG` · `AGENTS` · `KNOWLEDGE SYSTEMS` · `DATA INFRASTRUCTURE`
 
@@ -70,13 +70,13 @@ Building document ingestion, indexing, retrieval and intelligent summarization p
 
 ## `// ACTIVITY`
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=zxliangm&bg_color=050505&color=00ff9c&line=00ff9c&point=ffffff&area=true&area_color=003d24&hide_border=true&custom_title=NEURAL%20ACTIVITY" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Terrencesliang&bg_color=050505&color=00ff9c&line=00ff9c&point=ffffff&area=true&area_color=003d24&hide_border=true&custom_title=NEURAL%20ACTIVITY" />
 
 <br><br>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zxliangm&show_icons=true&hide_border=true&bg_color=050505&title_color=00ff9c&icon_color=00ff9c&text_color=b8ffd4" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Terrencesliang&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=00ff9c&icon_color=00ff9c&text_color=b8ffd4" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxliangm&layout=compact&hide_border=true&bg_color=050505&title_color=00ff9c&text_color=b8ffd4" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terrencesliang&layout=compact&hide_border=true&bg_color=050505&title_color=00ff9c&text_color=b8ffd4" />
 
 </div>
 
@@ -94,7 +94,7 @@ Building document ingestion, indexing, retrieval and intelligent summarization p
 
 ### `BUILD SYSTEMS. NOT JUST FEATURES.`
 
-<a href="https://github.com/zxliangm">
+<a href="https://github.com/Terrencesliang">
 <img src="https://img.shields.io/badge/%3E_ENTER_SYSTEM-000000?style=for-the-badge&logo=github&logoColor=00ff9c&labelColor=00ff9c" />
 </a>
 
