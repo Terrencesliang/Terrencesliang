@@ -1,51 +1,56 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:00ff9c&height=180&section=header&text=ZXLIANGM&fontSize=55&fontColor=00ff9c&animation=fadeIn&fontAlignY=35&desc=AI%20ENGINEER%20%2F%20BUILDER%20%2F%20SYSTEM%20ARCHITECT&descAlignY=60&descColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0a1a12,100:00ff9c&height=200&section=header&text=ZXLIANGM&fontSize=58&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%2F%20Builder%20%2F%20System%20Architect&descAlignY=62&descSize=16&descColor=c8ffd9" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&multiline=true&width=680&height=70&lines=Building+AI-powered+systems.;Turning+documents+into+intelligence.;Ship.+Learn.+Iterate." alt="typing" />
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff9c)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00ff9c)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00ff9c)
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=00ff9c)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff9c)
 
 </div>
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   > booting zxliangm.system                                  ║
-║                                                              ║
-║   [✓] AI ENGINE             ONLINE                           ║
-║   [✓] KNOWLEDGE ENGINE      ONLINE                           ║
-║   [✓] RAG PIPELINE          ONLINE                           ║
-║   [✓] AGENT SYSTEM          ONLINE                           ║
-║   [✓] DATA INFRASTRUCTURE   ONLINE                           ║
-║                                                              ║
-║   status: READY                                              ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+---
 
-## `> whoami`
+### `> whoami`
 
-```text
-ZXLIANGM
+```bash
+$ whoami
+zxliangm
 
-AI Engineer
-Full Stack Developer
-System Builder
+$ roles
+AI Engineer · Full Stack Developer · System Builder
 
-I build AI-powered systems,
-knowledge infrastructure,
-and intelligent workflows.
+$ focus
+AI-powered systems · knowledge infrastructure · intelligent workflows
 
-Currently obsessed with:
-
-→ AI
-→ RAG
-→ Agents
-→ Knowledge Systems
-→ Data Infrastructure
-→ Making complicated systems simple
+$ currently_obsessed_with
+→ RAG systems
+→ Agents & tool use
+→ Knowledge graphs
+→ Data infrastructure
+→ Making complicated systems feel simple
 ```
 
 ---
 
-## `> system.stack`
+### `> system.status`
+
+| Module | Status |
+|:-------|:------:|
+| AI Engine | `ONLINE` |
+| Knowledge Engine | `ONLINE` |
+| RAG Pipeline | `ONLINE` |
+| Agent System | `ONLINE` |
+| Data Infrastructure | `ONLINE` |
+
+---
+
+### `> system.stack`
 
 <div align="center">
 
@@ -53,125 +58,61 @@ Currently obsessed with:
 
 </div>
 
+| Layer | Stack |
+|:------|:------|
+| Languages | Python · TypeScript · JavaScript |
+| Backend | Django · REST · PostgreSQL · Redis |
+| Frontend | React · Next.js |
+| Infra | Docker · Linux · Git |
+| AI | LLM · RAG · Agents · Embeddings |
+| Architecture | Knowledge Systems · Data Pipelines |
+
+---
+
+### `> current_projects`
+
 ```text
-LANGUAGES       Python / TypeScript / JavaScript
+[01] ENTERPRISE INTELLIGENCE
+     Documents → Knowledge → Intelligence
+     AI-powered enterprise knowledge systems that turn
+     massive document collections into searchable, actionable insight.
 
-BACKEND         Django / REST / PostgreSQL / Redis
+[02] AI OPERATING MODEL
+     Human Intent → AI Reasoning → Model Operations
+     AI-assisted business modeling and intelligent workflow execution.
 
-FRONTEND        React / Next.js
-
-INFRA           Docker / Linux / Git
-
-AI              LLM / RAG / Agents / Embeddings
-
-ARCHITECTURE    Knowledge Systems / Data Pipelines
+[03] DOCUMENT INTELLIGENCE
+     Raw Files → Structured Data → AI
+     Pipelines for ingestion, indexing, retrieval, and summarization.
 ```
 
 ---
 
-## `> current_projects`
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  [01] ENTERPRISE INTELLIGENCE                               │
-│                                                             │
-│      Documents → Knowledge → Intelligence                   │
-│                                                             │
-│      Building AI-powered enterprise knowledge systems       │
-│      for turning massive document collections into          │
-│      searchable and actionable intelligence.                │
-│                                                             │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  [02] AI OPERATING MODEL                                    │
-│                                                             │
-│      Human Intent → AI Reasoning → Model Operations         │
-│                                                             │
-│      Exploring AI-assisted business modeling and            │
-│      intelligent workflow execution.                        │
-│                                                             │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  [03] DOCUMENT INTELLIGENCE                                 │
-│                                                             │
-│      Raw Files → Structured Data → AI                       │
-│                                                             │
-│      Building pipelines for document ingestion,             │
-│      indexing, retrieval and intelligent summarization.      │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-## `> github.stats`
+### `> github.stats`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zxliangm&show_icons=true&hide_border=true&theme=chartreuse-dark&bg_color=00000000&title_color=00ff9c&icon_color=00ff9c&text_color=ffffff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Terrencesliang&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=chartreuse-dark&bg_color=00000000&title_color=00ff9c&icon_color=00ff9c&text_color=eafff2&ring_color=00ff9c" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terrencesliang&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=00000000&title_color=00ff9c&text_color=eafff2" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxliangm&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=00000000&title_color=00ff9c&text_color=ffffff" />
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Terrencesliang&bg_color=00000000&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Matrix" />
 
 </div>
 
 ---
-
-## `> contribution.matrix`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zxliangm&bg_color=00000000&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" />
-
-</div>
-
----
-
-## `> terminal`
-
-```text
-$ ./connect.sh
-
-connecting...................... [OK]
-
-loading neural_engine............ [OK]
-loading knowledge_graph.......... [OK]
-loading agent_runtime............ [OK]
-loading data_pipeline............ [OK]
-
-----------------------------------------
-
-SYSTEM STATUS: OPERATIONAL
-
-----------------------------------------
-
-> build
-> ship
-> break
-> fix
-> repeat
-
-----------------------------------------
-
-connection established.
-```
 
 <div align="center">
 
 ### `BUILD SYSTEMS. NOT JUST FEATURES.`
 
-</div>
+<br/>
 
-<div align="center">
+[![GitHub](https://img.shields.io/badge/GitHub-Terrencesliang-000000?style=for-the-badge&logo=github&logoColor=00ff9c)](https://github.com/Terrencesliang)
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=00ff9c)](https://github.com/zxliangm)
-
-</div>
-
-<div align="center">
-
-```text
-01001001 01001110 01010100 01000101 01001100 01001100 01001001 01000111 01000101 01001110 01000011 01000101
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:0a1a12,100:050505&height=100&section=footer" />
 
 </div>
