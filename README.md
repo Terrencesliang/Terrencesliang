@@ -1,19 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a0f,100:00ff9c&height=230&section=header&text=ZXLIANGM&fontSize=70&fontColor=00ff9c&animation=twinkling&fontAlignY=38&desc=AI%20ENGINEER%20%2F%2F%20SYSTEM%20BUILDER&descAlignY=60&descSize=16&descColor=b8ffd4" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:001a0f,75:003d24,100:00ff9c&height=220&section=header&text=ZXLIANGM&fontSize=68&fontColor=00ff9c&animation=twinkling&fontAlignY=38&desc=AI%20ENGINEER%20%C2%B7%20KNOWLEDGE%20SYSTEMS%20BUILDER&descAlignY=60&descSize=16&descColor=b8ffd4" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1800&pause=500&color=00FF9C&center=true&vCenter=true&width=700&height=50&lines=%3E+AI+%2F%2F+RAG+%2F%2F+AGENTS;%3E+KNOWLEDGE+SYSTEMS;%3E+DATA+INFRASTRUCTURE;%3E+BUILD+%7C+BREAK+%7C+FIX+%7C+SHIP" />
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,django,postgres,redis,docker,linux,git&perline=10" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=700&color=00FF9C&center=true&vCenter=true&width=720&height=45&lines=%3E+building_intelligent_systems...;%3E+engineering_knowledge_infrastructure...;%3E+RAG+%2F%2F+AGENTS+%2F%2F+LLMs;%3E+turning_data_into_intelligence..." />
 
 <br><br>
 
-![ONLINE](https://img.shields.io/badge/●%20ONLINE-000000?style=for-the-badge\&labelColor=00ff9c\&color=000000)
-![AI](https://img.shields.io/badge/AI%20ENGINE-000000?style=for-the-badge\&labelColor=003d24\&color=00ff9c)
-![RAG](https://img.shields.io/badge/RAG-000000?style=for-the-badge\&labelColor=003d24\&color=00ff9c)
-![AGENTS](https://img.shields.io/badge/AGENTS-000000?style=for-the-badge\&labelColor=003d24\&color=00ff9c)
+<img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,django,postgres,redis,docker,linux&perline=9" />
 
 </div>
 
@@ -21,72 +14,88 @@
 
 <div align="center">
 
-```text
-┌──────────────────────────────────────────┐
-│                                          │
-│     AI  ×  KNOWLEDGE  ×  SYSTEMS        │
-│                                          │
-│        BUILD SYSTEMS.                    │
-│        NOT JUST FEATURES.                │
-│                                          │
-└──────────────────────────────────────────┘
-```
+### `I BUILD AI SYSTEMS THAT TURN DATA INTO INTELLIGENCE.`
+
+`AI` · `RAG` · `AGENTS` · `KNOWLEDGE SYSTEMS` · `DATA INFRASTRUCTURE`
 
 </div>
+
+---
 
 ## `// PROJECTS`
 
+### 🧠 Enterprise Intelligence
+
+**Documents → Knowledge → Intelligence**
+
+Building AI-powered enterprise knowledge systems that turn large document collections into searchable and actionable intelligence.
+
+`RAG` `LLM` `Knowledge Systems` `Data Pipelines`
+
+---
+
+### ⚡ AI Operating Model
+
+**Human Intent → AI Reasoning → Model Operations**
+
+Exploring AI-assisted business modeling and intelligent workflow execution.
+
+`Agents` `LLM` `Workflow` `AI Systems`
+
+---
+
+### 📚 Document Intelligence
+
+**Raw Files → Structured Data → AI**
+
+Building document ingestion, indexing, retrieval and intelligent summarization pipelines.
+
+`Python` `RAG` `Embeddings` `PostgreSQL`
+
+---
+
 <div align="center">
 
-|        `01`       |         `02`         |        `03`        |
-| :---------------: | :------------------: | :----------------: |
-| 🧠 **AI SYSTEMS** |     ⚡ **AGENTS**     |  📚 **KNOWLEDGE**  |
-|   Enterprise AI   | Intelligent Workflow | RAG Infrastructure |
+## `// STACK`
+
+`Python` · `TypeScript` · `JavaScript` · `React` · `Next.js`
+`Django` · `PostgreSQL` · `Redis` · `Docker` · `Linux`
+`LLM` · `RAG` · `Agents` · `Embeddings`
 
 </div>
 
 ---
 
-## `// STACK`
+<div align="center">
+
+## `// ACTIVITY`
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=zxliangm&bg_color=050505&color=00ff9c&line=00ff9c&point=ffffff&area=true&area_color=003d24&hide_border=true&custom_title=NEURAL%20ACTIVITY" />
+
+<br><br>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=zxliangm&show_icons=true&hide_border=true&bg_color=050505&title_color=00ff9c&icon_color=00ff9c&text_color=b8ffd4" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxliangm&layout=compact&hide_border=true&bg_color=050505&title_color=00ff9c&text_color=b8ffd4" />
+
+</div>
+
+---
 
 <div align="center">
 
 ```text
-PYTHON     TYPESCRIPT     REACT     NEXT.JS
-DJANGO     POSTGRESQL     REDIS     DOCKER
-LLM        RAG            AGENTS    EMBEDDINGS
+> build
+> ship
+> break
+> fix
+> repeat
 ```
 
-</div>
-
----
-
-## `// TELEMETRY`
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=zxliangm&show_icons=true&hide_border=true&bg_color=050505&title_color=00ff9c&icon_color=00ff9c&text_color=b8ffd4" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxliangm&layout=compact&hide_border=true&bg_color=050505&title_color=00ff9c&text_color=b8ffd4" />
-
-<br><br>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=zxliangm&bg_color=050505&color=00ff9c&line=00ff9c&point=ffffff&area=true&area_color=003d24&hide_border=true&custom_title=NEURAL%20ACTIVITY" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&height=40&lines=%3E+SYSTEM+READY...;%3E+AWAITING+NEXT+BUILD...;%3E+%5F" />
-
-<br>
+### `BUILD SYSTEMS. NOT JUST FEATURES.`
 
 <a href="https://github.com/zxliangm">
-
 <img src="https://img.shields.io/badge/%3E_ENTER_SYSTEM-000000?style=for-the-badge&logo=github&logoColor=00ff9c&labelColor=00ff9c" />
-
 </a>
 
 <br><br>
