@@ -1,88 +1,121 @@
+<!--
+  DeriaL // personal profile
+  inspired by netrunner / cyberpunk portfolio layout
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:001a0f,75:003d24,100:00ff9c&height=220&section=header&text=DeriaL&fontSize=68&fontColor=00ff9c&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%2F%20Founder&descAlignY=60&descSize=16&descColor=b8ffd4" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000510,40:001a33,70:0055ff,100:00ffaa&height=200&section=header&text=DeriaL&fontSize=64&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%2F%20Founder&descAlignY=60&descSize=16&descColor=00ffaa" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=700&color=00FF9C&center=true&vCenter=true&width=720&height=45&lines=%3E+building_AI-native_products...;%3E+engineering_intelligent_systems...;%3E+RAG+%2F%2F+AGENTS+%2F%2F+LLMs;%3E+founder_mode._ship_and_iterate..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2400&pause=900&color=00FFAA&center=true&vCenter=true&width=720&height=45&lines=Hi%2C+my+name+is+DeriaL.;Architecting+intelligence+across+systems.;Building+AI-native+products+%26+workflows." alt="typing" />
 
-<br><br>
+<br/>
 
-<img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,django,postgres,redis,docker,linux&perline=9" />
+`AI` · `RAG` · `AGENTS` · `KNOWLEDGE SYSTEMS` · `FULL STACK`
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/%3E_Check_out_my_work-000510?style=for-the-badge&logo=github&logoColor=00ffaa&labelColor=0055ff)](https://github.com/Terrencesliang)
+[![Profile](https://img.shields.io/badge/AI_Engineer_%2F_Founder-000510?style=for-the-badge&labelColor=ff00aa&color=00ffaa)](https://github.com/Terrencesliang)
 
 </div>
 
 ---
 
-<div align="center">
+## `01.` About Me
 
-### `DeriaL — AI Engineer / Founder`
+I engineer the convergence of **Artificial Intelligence**, **Knowledge Systems**, and **Web Platforms**.  
+From RAG pipelines to agent runtimes and production HR systems, I build technology that turns messy data into usable intelligence.
 
-`AI` · `RAG` · `AGENTS` · `KNOWLEDGE SYSTEMS` · `DATA INFRASTRUCTURE`
+```text
+$ neofetch
 
-</div>
+  Host      :: DeriaL
+  Class     :: AI Engineer / Founder
+  Kernel    :: build → ship → iterate
+  Shell     :: TypeScript / Python
+  Focus     :: AI · RAG · Agents · Systems
+  Status    :: ONLINE
+```
 
 ---
 
-## `// PROJECTS`
+## `02.` Where I Focus
 
-### 🧠 Enterprise Intelligence
+| Track | What I ship |
+|:------|:------------|
+| **Enterprise Intelligence** | Documents → Knowledge → searchable, actionable insight |
+| **AI Operating Model** | Intent → Reasoning → workflow execution |
+| **Document Intelligence** | Ingest · index · retrieve · summarize at scale |
+| **Product Systems** | Full-stack platforms that stay maintainable in production |
 
-**Documents → Knowledge → Intelligence**
+---
 
-Building AI-powered enterprise knowledge systems that turn large document collections into searchable and actionable intelligence.
+## `03.` Some Things I've Built
 
+### Enterprise Intelligence
+**Documents → Knowledge → Intelligence**  
+AI-powered knowledge systems that turn large document collections into searchable and actionable intelligence.  
 `RAG` `LLM` `Knowledge Systems` `Data Pipelines`
 
----
-
-### ⚡ AI Operating Model
-
-**Human Intent → AI Reasoning → Model Operations**
-
-Exploring AI-assisted business modeling and intelligent workflow execution.
-
+### AI Operating Model
+**Human Intent → AI Reasoning → Operations**  
+Exploring AI-assisted business modeling and intelligent workflow execution.  
 `Agents` `LLM` `Workflow` `AI Systems`
 
----
-
-### 📚 Document Intelligence
-
-**Raw Files → Structured Data → AI**
-
-Building document ingestion, indexing, retrieval and intelligent summarization pipelines.
-
+### Document Intelligence
+**Raw Files → Structured Data → AI**  
+Pipelines for document ingestion, indexing, retrieval, and summarization.  
 `Python` `RAG` `Embeddings` `PostgreSQL`
 
 ---
 
+## `04.` Tech Stack
+
 <div align="center">
 
-## `// STACK`
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,django,postgres,redis,docker,linux,git&perline=11" />
 
-`Python` · `TypeScript` · `JavaScript` · `React` · `Next.js`
-`Django` · `PostgreSQL` · `Redis` · `Docker` · `Linux`
-`LLM` · `RAG` · `Agents` · `Embeddings`
+</div>
+
+<br/>
+
+```text
+Languages   Python · TypeScript · JavaScript
+Backend     Django · REST · PostgreSQL · Redis
+Frontend    React · Next.js
+Infra       Docker · Linux · Git
+AI Core     LLM · RAG · Agents · Embeddings
+```
+
+---
+
+## `05.` Activity
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Terrencesliang&bg_color=000510&color=00ffaa&line=0055ff&point=ff00aa&area=true&area_color=001a33&hide_border=true&custom_title=Neural%20Activity" />
+
+<br/><br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Terrencesliang&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000510&title_color=00ffaa&icon_color=0055ff&text_color=e2e8f0&ring_color=ff00aa" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terrencesliang&layout=compact&hide_border=true&bg_color=000510&title_color=00ffaa&text_color=e2e8f0" />
 
 </div>
 
 ---
 
-<div align="center">
+## `06.` Let's Connect
 
-## `// ACTIVITY`
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Terrencesliang&bg_color=050505&color=00ff9c&line=00ff9c&point=ffffff&area=true&area_color=003d24&hide_border=true&custom_title=NEURAL%20ACTIVITY" />
-
-<br><br>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Terrencesliang&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=00ff9c&icon_color=00ff9c&text_color=b8ffd4" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terrencesliang&layout=compact&hide_border=true&bg_color=050505&title_color=00ff9c&text_color=b8ffd4" />
-
-</div>
-
----
+I'm open to collaborations, AI product ideas, and hard systems problems.  
+Whether you want to ship something ambitious or just say hi — signal is open.
 
 <div align="center">
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Terrencesliang-000510?style=for-the-badge&logo=github&logoColor=00ffaa&labelColor=0055ff)](https://github.com/Terrencesliang)
 
 ```text
 > build
@@ -94,12 +127,6 @@ Building document ingestion, indexing, retrieval and intelligent summarization p
 
 ### `BUILD SYSTEMS. NOT JUST FEATURES.`
 
-<a href="https://github.com/Terrencesliang">
-<img src="https://img.shields.io/badge/%3E_ENTER_SYSTEM-000000?style=for-the-badge&logo=github&logoColor=00ff9c&labelColor=00ff9c" />
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:003d24,100:000000&height=100&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffaa,40:0055ff,70:ff00aa,100:000510&height=110&section=footer&animation=fadeIn" />
 
 </div>
