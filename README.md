@@ -16,4 +16,27 @@
 
 </div>
 
+<div align="center">
 
+<img src="assets/jotaro.png" width="200" align="right" alt="Stand User"/>
+
+</div>
+
+```bash
+$ ./summon_stand.sh
+> Stand Name  : 「STAR PLATINUM」
+> User        : Terrence — AI Engineer / Founder
+> Ability     : Building AI-Powered Systems · Turning Ideas into Reality
+> Stats       : 破坏力 A · 速度 A · 射程 C · 精密度 A · 成长性 A
+> Status      : MANIFESTED ✓
+「このマシンは仲良くさせてもらうぞ…よろしくな」
+
+★ terrence@starplatinum:~$
+```
+
+<!-- 贪吃蛇吃贡献格子（GitHub Actions 自动生成，存放在 output 分支） -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Terrencesliang/Terrencesliang/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Terrencesliang/Terrencesliang/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eats contributions" src="https://raw.githubusercontent.com/Terrencesliang/Terrencesliang/output/github-contribution-grid-snake.svg" />
+</picture>
